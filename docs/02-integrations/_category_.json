@@ -1,0 +1,8 @@
+{
+  "label": "Integrations",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Lougao console integrates with a variety of third-party services to help you create your serverless WordPress website."
+  }
+}
