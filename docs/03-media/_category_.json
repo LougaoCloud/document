@@ -1,8 +1,0 @@
-{
-  "label": "Media",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "The media documentation tells you how to manage your media files in the Serverless WordPress."
-  }
-}
