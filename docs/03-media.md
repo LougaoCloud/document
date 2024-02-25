@@ -13,7 +13,7 @@ Of course, separating media files from WordPress files is not mandatory. If your
 
 ## Cloudflare R2
 
-We recommend storing your media files on Cloudflare R2, with zero outbound traffic fees and a highly advantageous monthly 10GiB of free storage space for small WordPress websites.
+We recommend storing your media files on [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/), with zero outbound traffic fees and a highly advantageous monthly 10GiB of free storage space for small WordPress websites.
 
 ## Plugin
 

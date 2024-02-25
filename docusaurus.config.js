@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/LougaoCloud/document/tree/main/',
         },
         //blog: {
         //  showReadingTime: true,
@@ -93,38 +93,38 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Overview',
+                to: '/docs/overview',
               },
             ],
           },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
+          //{
+          //  title: 'Community',
+          //  items: [
+          //    {
+          //      label: 'Stack Overflow',
+          //      href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          //    },
+          //    {
+          //      label: 'Discord',
+          //      href: 'https://discordapp.com/invite/docusaurus',
+          //    },
+          //    {
+          //      label: 'Twitter',
+          //      href: 'https://twitter.com/docusaurus',
+          //    },
+          //  ],
+          //},
           {
             title: 'More',
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://www.serverless-wordpress.cloud/blogs/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/LougaoCloud/WordPressOnFaas',
               },
             ],
           },
