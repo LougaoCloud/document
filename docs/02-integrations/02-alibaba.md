@@ -25,7 +25,7 @@ Before you start, you need to have an Alibaba Cloud account. If you don't have a
 4. Select **Alibaba Cloud Account**.
 5. Enter RAM Role Name: ![Enter RAN Role Name](https://r2.serverless-wordpress.cloud/2024/02/screenshot-20240206-194841-2048x1374.png)
 6. Click the **Add Permissions to RAM Role** button. ![Add Permissions to RAM Role](https://r2.serverless-wordpress.cloud/2024/02/screenshot-20240206-195047-2048x1374.png)
-7. Click the **Grant Permission** button and add permissions to the RAM Role: ![Grant Permission](https://r2.serverless-wordpress.cloud/2024/02/screenshot-20240206-200032-2048x1374.png)
+7. Click the **Grant Permission** button and add **AdministratorAccess** permission to the RAM Role: ![Grant Permission](https://r2.serverless-wordpress.cloud/2024/03/screenshot-20240307-005730.png)
 8. Edit **trust policy**, copy and paste the following code:
 
 ```json
